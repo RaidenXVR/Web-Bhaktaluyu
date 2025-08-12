@@ -28,7 +28,7 @@ export default function Home() {
 
     useEffect(() => {
 
-        fetch('https://drive.google.com/uc?export=download&id=1VZCbUeE6N4tdthNLqil0GDLM_gvnBOuy')
+        fetch('https://raw.githubusercontent.com/RaidenXVR/Web-Bhaktaluyu/refs/heads/main/log_book.json')
             .then((response) => response.json())
             .then((data) => {
                 setLogs(data["logs"])

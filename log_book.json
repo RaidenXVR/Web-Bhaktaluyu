@@ -4,8 +4,8 @@
             "day": 0,
             "title": "Pemberangkatan",
             "date": "2025-07-20",
-            "description": "Kegiatan pembukaan KKN 132 Bhaktaluyu, perkenalan tim dan penjelasan program kerja.",
-            "full_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed nunc eu nulla finibus sagittis in nec sapien. Donec et dui lobortis, porta arcu placerat, iaculis tellus. Ut ac nulla eu purus lacinia vehicula at vel orci. Aliquam augue tortor, porttitor in suscipit vitae, mollis auctor magna. Vivamus et iaculis nisl. Nulla facilisi. Pellentesque dictum porta nisi vel suscipit. Aliquam a consectetur augue. Morbi nunc ex, interdum quis nulla sodales, porttitor venenatis nunc. Pellentesque vehicula orci ut ipsum commodo pretium sit amet at lectus. Donec vitae aliquam lacus. \nNam dolor ante, elementum sit amet ullamcorper ut, pharetra ut mauris. Sed ullamcorper gravida ante. Sed et orci eleifend, blandit nisi ac, ornare neque. Etiam non massa dui. Nunc maximus ligula at tellus efficitur gravida. Pellentesque id sapien at lacus porta auctor. Aenean at mauris porta nisi euismod vestibulum. Suspendisse convallis vulputate ante ut accumsan. Nulla ornare nisl non bibendum lacinia. Morbi efficitur luctus ligula ut ultricies.",
+            "description": "Pemberangkatan kelompok KKN 132 dari Bandung ke Garut.",
+            "full_description": "Hari pertama dimulai dengan pemberangkatan menuju Desa Margaluyu, dilanjutkan dengan penataan posko sebagai pusat aktivitas KKN, serta pelaksanaan gladi pembukaan untuk menyambut dimulainya seluruh rangkaian kegiatan.\n\nDengan semangat kebersamaan dan tanggung jawab, Bhaktaluyu siap mengabdi.",
             "documentations": [
                 "https://ik.imagekit.io/raidenxvr/IMG_5409.HEIC?updatedAt=1754465046565",
                 "https://ik.imagekit.io/raidenxvr/IMG_5468.HEIC?updatedAt=1754465047162",
@@ -16,7 +16,7 @@
             "day": 1,
             "title": "Pembukaan",
             "date": "2025-07-21",
-            "full_description": "",
+            "full_description": "Hari kedua diawali dengan pembukaan KKN Bhaktaluyu dan pelepasan oleh dosen pembimbing lapangan, menandai dimulainya secara resmi rangkaian pengabdian di Desa Margaluyu.\n\nKegiatan berlanjut di sore hari dengan sosialisasi bersama masyarakat, sebagai langkah awal membangun komunikasi dan kerja sama yang harmonis dalam pelaksanaan program kerja ke depan.\n\nBhaktaluyu siap mengabdi, bersama masyarakat, untuk Margaluyu.",
             "description": "Kegiatan pembukaan KKN 132 Bhaktaluyu, perkenalan tim dan penjelasan program kerja.",
             "documentations": [
                 "https://ik.imagekit.io/raidenxvr/IMG_5646.HEIC?updatedAt=1754473497661",
@@ -26,146 +26,14 @@
         },
         {
             "day": 2,
-            "title": "Kunjungan Ke Instansi Pendidikan",
+            "title": "Kunjungan-Kunjungan",
             "date": "2025-07-22",
-            "description": "Kegiatan pembukaan KKN 132 Bhaktaluyu, perkenalan tim dan penjelasan program kerja.",
-            "full_description": "",
+            "description": "Hari ketiga Bhaktaluyu diisi dengan kunjungan ke instansi pendidikan dan RW untuk menjalin kerja sama serta mengajar mengaji anak-anak sebagai kontribusi di bidang pendidikan dan keagamaan.",
+            "full_description": "Hari ketiga diawali dengan kunjungan ke beberapa instansi pendidikan, dimulai dari TK Annisa 2, dilanjutkan ke SD Negeri 1 Margaluyu untuk membangun komunikasi awal serta menjalin kerja sama dalam pelaksanaan program kerja di bidang pendidikan.\n\nKegiatan berlanjut dari siang hingga sore hari dengan kunjungan ke beberapa RW sebagai bentuk awal koordinasi dan pengenalan lingkungan masyarakat secara langsung.\n\nPada malam harinya, dilaksanakan kegiatan mengajar mengaji untuk anak-anak, sebagai bentuk kontribusi di bidang keagamaan sekaligus mempererat kedekatan dengan masyarakat sejak dini.\n\nLangkah demi langkah, Bhaktaluyu siap mengabdi untuk Margaluyu.",
             "documentations": [
                 "https://ik.imagekit.io/raidenxvr/IMG_4772.HEIC?updatedAt=1754473834201",
                 "https://ik.imagekit.io/raidenxvr/IMG_5756.HEIC?updatedAt=1754473834908",
                 "https://ik.imagekit.io/raidenxvr/IMG_5817.HEIC?updatedAt=1754473835965"
-            ]
-        },
-        {
-            "day": 3,
-            "title": "Pembukaan",
-            "date": "2025-07-21",
-            "description": "Kegiatan pembukaan KKN 132 Bhaktaluyu, perkenalan tim dan penjelasan program kerja.",
-            "full_description": "",
-            "documentations": [
-                "https://ik.imagekit.io/raidenxvr/IMG_5409.HEIC?updatedAt=1754465046565",
-                "https://ik.imagekit.io/raidenxvr/IMG_5468.HEIC?updatedAt=1754465047162",
-                "https://ik.imagekit.io/raidenxvr/_MG_0145.JPG?updatedAt=1754465049754"
-            ]
-        },
-        {
-            "day": 4,
-            "title": "Pembukaan",
-            "date": "2025-07-21",
-            "description": "Kegiatan pembukaan KKN 132 Bhaktaluyu, perkenalan tim dan penjelasan program kerja.",
-            "full_description": "",
-            "documentations": [
-                "https://ik.imagekit.io/raidenxvr/IMG_5409.HEIC?updatedAt=1754465046565",
-                "https://ik.imagekit.io/raidenxvr/IMG_5468.HEIC?updatedAt=1754465047162",
-                "https://ik.imagekit.io/raidenxvr/_MG_0145.JPG?updatedAt=1754465049754"
-            ]
-        },
-        {
-            "day": 5,
-            "title": "Pembukaan",
-            "date": "2025-07-21",
-            "description": "Kegiatan pembukaan KKN 132 Bhaktaluyu, perkenalan tim dan penjelasan program kerja.",
-            "full_description": "",
-            "documentations": [
-                "https://ik.imagekit.io/raidenxvr/IMG_5409.HEIC?updatedAt=1754465046565",
-                "https://ik.imagekit.io/raidenxvr/IMG_5468.HEIC?updatedAt=1754465047162",
-                "https://ik.imagekit.io/raidenxvr/_MG_0145.JPG?updatedAt=1754465049754"
-            ]
-        },
-        {
-            "day": 6,
-            "title": "Pembukaan",
-            "date": "2025-07-21",
-            "description": "Kegiatan pembukaan KKN 132 Bhaktaluyu, perkenalan tim dan penjelasan program kerja.",
-            "full_description": "",
-            "documentations": [
-                "https://ik.imagekit.io/raidenxvr/IMG_5409.HEIC?updatedAt=1754465046565",
-                "https://ik.imagekit.io/raidenxvr/IMG_5468.HEIC?updatedAt=1754465047162",
-                "https://ik.imagekit.io/raidenxvr/_MG_0145.JPG?updatedAt=1754465049754"
-            ]
-        },
-        {
-            "day": 7,
-            "title": "Pembukaan",
-            "date": "2025-07-21",
-            "description": "Kegiatan pembukaan KKN 132 Bhaktaluyu, perkenalan tim dan penjelasan program kerja.",
-            "full_description": "",
-            "documentations": [
-                "https://ik.imagekit.io/raidenxvr/IMG_5409.HEIC?updatedAt=1754465046565",
-                "https://ik.imagekit.io/raidenxvr/IMG_5468.HEIC?updatedAt=1754465047162",
-                "https://ik.imagekit.io/raidenxvr/_MG_0145.JPG?updatedAt=1754465049754"
-            ]
-        },
-        {
-            "day": 8,
-            "title": "Pembukaan",
-            "date": "2025-07-21",
-            "description": "Kegiatan pembukaan KKN 132 Bhaktaluyu, perkenalan tim dan penjelasan program kerja.",
-            "full_description": "",
-            "documentations": [
-                "https://ik.imagekit.io/raidenxvr/IMG_5409.HEIC?updatedAt=1754465046565",
-                "https://ik.imagekit.io/raidenxvr/IMG_5468.HEIC?updatedAt=1754465047162",
-                "https://ik.imagekit.io/raidenxvr/_MG_0145.JPG?updatedAt=1754465049754"
-            ]
-        },
-        {
-            "day": 9,
-            "title": "Pembukaan",
-            "date": "2025-07-21",
-            "description": "Kegiatan pembukaan KKN 132 Bhaktaluyu, perkenalan tim dan penjelasan program kerja.",
-            "full_description": "",
-            "documentations": [
-                "https://ik.imagekit.io/raidenxvr/IMG_5409.HEIC?updatedAt=1754465046565",
-                "https://ik.imagekit.io/raidenxvr/IMG_5468.HEIC?updatedAt=1754465047162",
-                "https://ik.imagekit.io/raidenxvr/_MG_0145.JPG?updatedAt=1754465049754"
-            ]
-        },
-        {
-            "day": 10,
-            "title": "Pembukaan",
-            "date": "2025-07-21",
-            "description": "Kegiatan pembukaan KKN 132 Bhaktaluyu, perkenalan tim dan penjelasan program kerja.",
-            "full_description": "",
-            "documentations": [
-                "https://ik.imagekit.io/raidenxvr/IMG_5409.HEIC?updatedAt=1754465046565",
-                "https://ik.imagekit.io/raidenxvr/IMG_5468.HEIC?updatedAt=1754465047162",
-                "https://ik.imagekit.io/raidenxvr/_MG_0145.JPG?updatedAt=1754465049754"
-            ]
-        },
-        {
-            "day": 11,
-            "title": "Pembukaan",
-            "date": "2025-07-21",
-            "description": "Kegiatan pembukaan KKN 132 Bhaktaluyu, perkenalan tim dan penjelasan program kerja.",
-            "full_description": "",
-            "documentations": [
-                "https://ik.imagekit.io/raidenxvr/IMG_5409.HEIC?updatedAt=1754465046565",
-                "https://ik.imagekit.io/raidenxvr/IMG_5468.HEIC?updatedAt=1754465047162",
-                "https://ik.imagekit.io/raidenxvr/_MG_0145.JPG?updatedAt=1754465049754"
-            ]
-        },
-        {
-            "day": 12,
-            "title": "Pembukaan",
-            "date": "2025-07-21",
-            "description": "Kegiatan pembukaan KKN 132 Bhaktaluyu, perkenalan tim dan penjelasan program kerja.",
-            "full_description": "",
-            "documentations": [
-                "https://ik.imagekit.io/raidenxvr/IMG_5409.HEIC?updatedAt=1754465046565",
-                "https://ik.imagekit.io/raidenxvr/IMG_5468.HEIC?updatedAt=1754465047162",
-                "https://ik.imagekit.io/raidenxvr/_MG_0145.JPG?updatedAt=1754465049754"
-            ]
-        },
-        {
-            "day": 13,
-            "title": "Pembukaan",
-            "date": "2025-07-21",
-            "description": "Kegiatan pembukaan KKN 132 Bhaktaluyu, perkenalan tim dan penjelasan program kerja.",
-            "full_description": "",
-            "documentations": [
-                "https://ik.imagekit.io/raidenxvr/IMG_5409.HEIC?updatedAt=1754465046565",
-                "https://ik.imagekit.io/raidenxvr/IMG_5468.HEIC?updatedAt=1754465047162",
-                "https://ik.imagekit.io/raidenxvr/_MG_0145.JPG?updatedAt=1754465049754"
             ]
         }
     ]
