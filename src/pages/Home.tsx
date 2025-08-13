@@ -112,32 +112,35 @@ export default function Home() {
                             </Card>
 
                             <Card imagePath="https://ik.imagekit.io/raidenxvr/IMG_7906.HEIC?updatedAt=1754972779049"
-                                nama="Anti Bullying" jabatan={'Pendidikan'} deskripsi={'Melakukan kegiatan sosialisasi setiap hari kepada RT/RW setempat dan ikuts serta melakukan kegitannya.'}>
+                                nama="Anti Bullying" jabatan={'Pendidikan'} deskripsi={'Melakukan kegiatan penyuluhan tentang anti bullying kepada siswa di sekolah.'}>
                             </Card>
 
                             <Card imagePath="https://ik.imagekit.io/raidenxvr/_MG_0114.JPG?updatedAt=1754973086583"
-                                nama="EcoPrint" jabatan={'Pendidikan'} deskripsi={'Melakukan kegiatan sosialisasi setiap hari kepada RT/RW setempat dan ikuts serta melakukan kegitannya.'}>
+                                nama="EcoPrint" jabatan={'Pendidikan'} deskripsi={'Kegiatan mencetak daun dan bunga ke Totebag.'}>
                             </Card>
 
                             <Card imagePath="https://ik.imagekit.io/raidenxvr/IMG_6143.HEIC?updatedAt=1754973495108"
-                                nama="Kebersihan Diri" jabatan={'Pendidikan'} deskripsi={'Melakukan kegiatan sosialisasi setiap hari kepada RT/RW setempat dan ikuts serta melakukan kegitannya.'}>
+                                nama="Kebersihan Diri" jabatan={'Pendidikan'} deskripsi={'Kegiatan penyuluhan tentang kebersihan diri kepada siswa di TK.'}>
                             </Card>
                             <Card imagePath="https://ik.imagekit.io/raidenxvr/IMG_5931.HEIC?updatedAt=1754972776784"
                                 nama="Sosialisasi" jabatan={'Masyarakat'} deskripsi={'Melakukan kegiatan sosialisasi setiap hari kepada RT/RW setempat dan ikuts serta melakukan kegitannya.'}>
                             </Card>
                             <Card imagePath="https://ik.imagekit.io/raidenxvr/IMG_6595.HEIC?updatedAt=1754972782287"
-                                nama="Tong Sampah" jabatan={'Masyarakat'} deskripsi={'Melakukan kegiatan sosialisasi setiap hari kepada RT/RW setempat dan ikuts serta melakukan kegitannya.'}>
+                                nama="Tong Sampah" jabatan={'Masyarakat'} deskripsi={'Kegiatan membuat Tong Sampah menggunakan Ember Bekas.'}>
                             </Card>
                             <Card imagePath="https://ik.imagekit.io/raidenxvr/e23aaef101758ba2d6e06b67597b3377.jpg?updatedAt=1754973400068"
-                                nama="Daur Ulang Minyak" jabatan={'Masyarakat'} deskripsi={'Melakukan kegiatan sosialisasi setiap hari kepada RT/RW setempat dan ikuts serta melakukan kegitannya.'}>
+                                nama="Daur Ulang Minyak" jabatan={'Masyarakat'} deskripsi={'Kegiatan mendaur ulang minyak jelantah menjadi lilin.'}>
                             </Card>
 
+                            <Card imagePath="https://ik.imagekit.io/raidenxvr/e23aaef101758ba2d6e06b67597b3377.jpg?updatedAt=1754973400068"
+                                nama="Digitalisasi UMKM" jabatan={'Masyarakat'} deskripsi={'Kegiatan digitalisasi UMKM di Desa Margaluyu.'}>
+                            </Card>
                             <Card imagePath="https://ik.imagekit.io/raidenxvr/IMG_5817.HEIC?updatedAt=1754473835965"
-                                nama="Pengajian" jabatan={'Keagamaan'} deskripsi={'Melakukan kegiatan sosialisasi setiap hari kepada RT/RW setempat dan ikuts serta melakukan kegitannya.'}>
+                                nama="Pengajian" jabatan={'Keagamaan'} deskripsi={'Kegiatan rutinan dalam bentuk pengajian ibu-ibu, pengajaran di Madrasah, dan Yasinan.'}>
                             </Card>
 
                             <Card imagePath="https://ik.imagekit.io/raidenxvr/e23aaef101758ba2d6e06b67597b3377.jpg?updatedAt=1754973400068"
-                                nama="Gebar Keagamaan" jabatan={'Keagamaan'} deskripsi={'Melakukan kegiatan sosialisasi setiap hari kepada RT/RW setempat dan ikuts serta melakukan kegitannya.'}>
+                                nama="Gebyar Keagamaan" jabatan={'Keagamaan'} deskripsi={'Kegiatan perlombaan keagamaan untuk anak-anak tingkat SD.'}>
                             </Card>
 
                         </div>

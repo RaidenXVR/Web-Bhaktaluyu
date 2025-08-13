@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react"
 import type { DailyLog } from "../types/DailyLog"
 import { useParams } from "react-router-dom"
-import { BsBack } from "react-icons/bs"
 import { BiLeftArrow } from "react-icons/bi"
 
 
