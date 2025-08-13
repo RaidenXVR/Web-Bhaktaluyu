@@ -51,7 +51,7 @@ export default function Home() {
                 </div>
             </nav>
             <div className="flex flex-col overflow-y-scroll ">
-                <section id="home" className="flex flex-col items-center justify-center h-screen bg-[url('https://ik.imagekit.io/raidenxvr/IMG_5645.HEIC?updatedAt=1754967646169')] bg-cover bg-center bg-no-repeat relative">
+                <section id="home" className="flex flex-col items-center justify-center h-screen bg-[url('https://ik.imagekit.io/raidenxvr/IMG_5645.HEIC?updatedAt=1754967646169')] bg-cover bg-center bg-no-repeat relative mb-4">
                     {/* Optional overlay for better text readability */}
                     <div className='absolute inset-0 bg-black opacity-70'></div>
 
@@ -61,7 +61,7 @@ export default function Home() {
                         <p className='mt-4 text-gray-100 drop-shadow-md'>Kuliah Kerja Nyata 132 Desa Margaluyu, Kecamatan Leles, Kabupaten Garut.</p>
                     </div>
                 </section>
-                <section id="anggota" className='flex flex-col items-center justify-center h-screen bg-gray-100'>
+                <section id="anggota" className='flex flex-col items-center justify-center h-screen bg-gray-100 mb-4'>
                     <div className='flex flex-col items-center justify-center mt-8'>
                         <h2 className='text-2xl font-bold text-gray-800'>Tim KKN 132</h2>
 
@@ -103,7 +103,7 @@ export default function Home() {
                     </div>
                 </section>
                 {/* Proker Section */}
-                <section id="program-kerja" className='flex flex-col items-center justify-center h-screen bg-gray-50'>
+                <section id="program-kerja" className='flex flex-col items-center justify-center h-screen bg-gray-50 mb-4'>
                     <div className='flex flex-col items-center justify-center mt-8'>
                         <h2 className='text-2xl font-bold text-gray-800'>Program Kerja</h2>
                         <div className='grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-6 mt-6 m-10'>
@@ -148,7 +148,7 @@ export default function Home() {
                 </section>
 
                 {/* Documentation Section */}
-                <section id="dokumentasi" className='flex flex-col items-center justify-center h-screen bg-gray-100'>
+                <section id="dokumentasi" className='flex flex-col items-center justify-center h-screen bg-gray-100 mb-4'>
                     <div className='flex flex-col items-center justify-center mt-8 w-full max-w-6xl px-4'>
                         <h2 className='text-2xl font-bold text-gray-800'>Dokumentasi & Log Book</h2>
 
@@ -204,7 +204,7 @@ export default function Home() {
                     </div>
                 </section>
                 {/* About Us Section */}
-                <section id="tentang-kami" className='flex flex-col items-center justify-center h-screen bg-gray-50'>
+                <section id="tentang-kami" className='flex flex-col items-center justify-center h-screen bg-gray-50 mb-4'>
                     <div className='flex flex-col items-center justify-center mt-8'>
                         <h2 className='text-2xl font-bold text-gray-800'>Tentang Kami</h2>
                         <p className='mt-4 text-gray-600'>Kami adalah tim KKN 132 yang berkomitmen untuk memberikan kontribusi positif kepada masyarakat Desa Margaluyu.</p>
