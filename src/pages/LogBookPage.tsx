@@ -8,7 +8,7 @@ export default function LogBookPage() {
     const [log, setLog] = useState<DailyLog>()
     const { day } = useParams()
     useEffect(() => {
-        fetch('/log_book.json')
+        fetch('https://raw.githubusercontent.com/RaidenXVR/Web-Bhaktaluyu/refs/heads/main/log_book.json')
             .then((response) => response.json())
             .then((data) => {
                 const thisLog = (data["logs"] as DailyLog[]).filter((x) => { return x.day == Number(day!) })[0]
@@ -49,14 +49,14 @@ export default function LogBookPage() {
                 <div className="h-auto min-h-64 bg-gray-200 flex flex-col items-center m-4 rounded-2xl">
                     <h1 className="text-2xl font-bold text-gray-800 m-4">Dokumentasi</h1>
                     <div className="flex flex-row justify-center items-center">
-                        <div className="w-128 m-4">
-                            <img src={log?.documentations[0]} />
+                        <div className="w-1/3 m-4">
+                            <img className="rounded-lg shadow-md" src={log?.documentations[0]} />
                         </div>
-                        <div className="w-128 m-4">
-                            <img src={log?.documentations[1]} />
+                        <div className="w-1/3 m-4">
+                            <img className="rounded-lg shadow-md" src={log?.documentations[1]} />
                         </div>
-                        <div className="w-128 m-4">
-                            <img src={log?.documentations[2]} />
+                        <div className="w-1/3 m-4">
+                            <img className="rounded-lg shadow-md" src={log?.documentations[2]} />
                         </div>
                     </div>
                 </div>
